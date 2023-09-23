@@ -35,6 +35,90 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Riofrio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "Amazing 😃",
+      "date": "2023-09-23T11:44:17.034Z",
+      "position": {
+        "lat": "40.56389453066509",
+        "lng": "-4.724121093750001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Navamorcuende",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "Amazing 😃",
+      "date": "2023-09-23T11:44:39.054Z",
+      "position": {
+        "lat": "40.094882122321174",
+        "lng": "-4.877929687500001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Navalpino",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "Amazing 😃",
+      "date": "2023-09-23T11:44:39.054Z",
+      "position": {
+        "lat": "39.2492708462234",
+        "lng": "-4.570312500000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Siruela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "Amazing 😃",
+      "date": "2023-09-23T11:52:35.274Z",
+      "position": {
+        "lat": "38.94232097947902",
+        "lng": "-5.053710937500001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Alcacer do Sal",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "notes": "Amazing 😃",
+      "date": "2023-09-23T11:56:07.072Z",
+      "position": {
+        "lat": "38.272688535980976",
+        "lng": "-8.217773437500002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Beja",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "notes": "Amazing 😃",
+      "date": "2023-09-23T11:56:07.072Z",
+      "position": {
+        "lat": "37.92686760148135",
+        "lng": "-7.932128906250001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Ourique",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "notes": "Amazing 😃",
+      "date": "2023-09-23T12:03:15.641Z",
+      "position": {
+        "lat": "37.68382032669382",
+        "lng": "-8.283691406250002"
+      },
+      "id": 98443204
     }
   ]
 }
