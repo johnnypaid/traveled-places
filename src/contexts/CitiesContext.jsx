@@ -105,6 +105,7 @@ function CitiesProvider({ children }) {
   }
 
   async function deleteCity(id) {
+    if (Number(id) !== currentCity.id) return;
     dispatch({ type: "loading" });
 
     try {

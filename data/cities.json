@@ -1,124 +1,76 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Riofrio",
+      "cityName": "Dos Torres",
       "country": "Spain",
       "emoji": "🇪🇸",
       "notes": "Amazing 😃",
-      "date": "2023-09-23T11:44:17.034Z",
+      "date": "2023-09-24T07:48:36.717Z",
       "position": {
-        "lat": "40.56389453066509",
-        "lng": "-4.724121093750001"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Navamorcuende",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "notes": "Amazing 😃",
-      "date": "2023-09-23T11:44:39.054Z",
-      "position": {
-        "lat": "40.094882122321174",
-        "lng": "-4.877929687500001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Navalpino",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "notes": "Amazing 😃",
-      "date": "2023-09-23T11:44:39.054Z",
-      "position": {
-        "lat": "39.2492708462234",
-        "lng": "-4.570312500000001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Siruela",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "notes": "Amazing 😃",
-      "date": "2023-09-23T11:52:35.274Z",
-      "position": {
-        "lat": "38.94232097947902",
-        "lng": "-5.053710937500001"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Alcacer do Sal",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "notes": "Amazing 😃",
-      "date": "2023-09-23T11:56:07.072Z",
-      "position": {
-        "lat": "38.272688535980976",
-        "lng": "-8.217773437500002"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Beja",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "notes": "Amazing 😃",
-      "date": "2023-09-23T11:56:07.072Z",
-      "position": {
-        "lat": "37.92686760148135",
-        "lng": "-7.932128906250001"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Ourique",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "notes": "Amazing 😃",
-      "date": "2023-09-23T12:03:15.641Z",
-      "position": {
-        "lat": "37.68382032669382",
-        "lng": "-8.283691406250002"
+        "lat": "38.41055825094609",
+        "lng": "-4.833984375000001"
       },
       "id": 98443204
+    },
+    {
+      "cityName": "Velada",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "Amazing 😃",
+      "date": "2023-09-26T14:13:41.327Z",
+      "position": {
+        "lat": "40.07807142745009",
+        "lng": "-4.965820312500001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Cagnac-les-Mines",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "notes": "Amazing 😃",
+      "date": "2023-09-26T14:23:17.155Z",
+      "position": {
+        "lat": "43.992814500489914",
+        "lng": "2.1533203125000004"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Moulayres",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "notes": "Amazing 😃",
+      "date": "2023-09-26T14:25:06.221Z",
+      "position": {
+        "lat": "43.70759350405296",
+        "lng": "2.0214843750000004"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Alia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "Amazing 😃",
+      "date": "2023-09-26T14:28:56.017Z",
+      "position": {
+        "lat": "39.554883059924016",
+        "lng": "-5.207519531250001"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "La Roda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "Amazing 😃",
+      "date": "2023-09-26T14:54:37.929Z",
+      "position": {
+        "lat": "39.232253141714914",
+        "lng": "-2.1972656250000004"
+      },
+      "id": 98443213
     }
   ]
 }
